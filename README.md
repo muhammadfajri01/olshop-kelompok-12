@@ -15,6 +15,6 @@ Online Shop / E-commerce
 
 ## ERD
 
-![Alt text](diagram.png)
+![Alt text](erd.png)
 
 ## Link Video
